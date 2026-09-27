@@ -14,6 +14,7 @@ Founder and the only developer of **[NextVibe](https://nextvibe.io)**, the IRL n
 
 ### Right now
 🛠 Building for **Solana Mobile CLOCK IN** and **Colosseum Crypto World's Fair**
+<br />
 🏆 Web3 Resilience Lab winner · Superteam Ukraine grant
 
 ### Stack
