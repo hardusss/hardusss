@@ -1,16 +1,23 @@
-## Hi there 👋
+<img src="https://nextvibe.io/og-image-v3.png" alt="NextVibe - Tap phones. Prove you met." width="100%" />
 
-<!--
-**hardusss/hardusss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Dan 👋
 
-Here are some ideas to get you started:
+Founder and the only developer of **[NextVibe](https://nextvibe.io)**, the IRL networking layer on Solana.
+18, Lviv, Ukraine. Building it for two years, from a school project to the Solana dApp Store.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What NextVibe does
+- **Tap to Meet** - two people tap phones (NFC or Bluetooth), both get a Proof of Meet on Solana
+- **Event check-in** - guests tap in at the door and get a POAP, organizers see who came and who met whom
+- **Built for Seeker** - MWA + Seed Vault, Seeker Verified via Genesis Token, gasless cNFTs
+
+**Live in the Solana dApp Store** · 1.1K organic installs · 424 Seeker Verified · no token, no paid installs
+
+### Right now
+🛠 Building for **Solana Mobile CLOCK IN** and **Colosseum Crypto World's Fair**
+🏆 Web3 Resilience Lab winner · Superteam Ukraine grant
+
+### Stack
+`React Native / Expo` `TypeScript` `Django` `Bun` `Kotlin` `Solana` `Metaplex Bubblegum` `Helius` `NFC HCE` `BLE`
+
+### Find me
+[nextvibe.io](https://nextvibe.io) · [X @DanKlepar](https://x.com/DanKlepar) · [X @NextVibeWeb3](https://x.com/NextVibeWeb3) · [Telegram](https://t.me/danylo_nv)
